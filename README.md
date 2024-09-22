@@ -1,10 +1,3 @@
-
-<img width="421" alt="Screenshot 2024-09-17 at 12 39 12 AM" src="https://github.com/user-attachments/assets/8335f8c4-92c7-455c-970c-8ff18205889d">
-
-<img width="423" alt="Screenshot 2024-09-17 at 12 39 36 AM" src="https://github.com/user-attachments/assets/2a1b3aa7-3632-4334-98ad-bfde4c5a52ae">
-
-
-
 ## Project Description: "PokeDex"
 ## Overview
 
@@ -35,3 +28,11 @@ Material Design: Follows Material Design principles to ensure a consistent and v
 ## Future Enhancements
 
 Future improvements to PokeDex could include a Pokémon battle simulator, where users can simulate battles based on type matchups and stats. Community features, such as the ability to share Pokémon collections and battle strategies, will foster user engagement. Additionally, expanding the app to include information on Pokémon TCG cards and other media could broaden its appeal.
+
+
+## Screenshots
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/8335f8c4-92c7-455c-970c-8ff18205889d" width="421" alt="PokeDex Screenshot 1" />
+    <img src="https://github.com/user-attachments/assets/2a1b3aa7-3632-4334-98ad-bfde4c5a52ae" width="423" alt="PokeDex Screenshot 2" />
+</div>
